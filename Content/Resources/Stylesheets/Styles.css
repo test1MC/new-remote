@@ -88,3 +88,21 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+MadCap|dropDownHotspot.flat
+{
+	text-decoration: none;
+	color: #000000;
+	font-style: normal;
+}
+
+MadCap|dropDown.flat
+{
+	mc-closed-image: none;
+	mc-open-image: none;
+}
+
+MadCap|dropDownBody.flat
+{
+	margin-left: 0px;
+}
+
